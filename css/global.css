@@ -1,0 +1,27 @@
+.resources {
+	padding: 50px 10px;
+}
+
+.resources a {
+	margin: 10% 0%;
+}
+
+.download {
+	padding: 10px;
+	margin: 25px 0px;
+}
+
+a {
+	color: blue;
+	background-color: white;
+	text-decoration: none;
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+
+a:hover {
+	color: white;
+	background-color: blue;
+	text-decoration: none;
+	border-radius: 10px;
+}
